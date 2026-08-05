@@ -12,9 +12,13 @@ Gunakan untuk testing sendiri. Resiko ditanggung user.
 - Device ID based
 - Quota system for trial
 
+## TAMPILAN 
+![ZAXOTP BANNER](https://ibb.co.com/HTrctSD8)
+
 ## Instalasi
 ```bash
 git clone https://github.com/yourusername/ZAXOTP.git
 cd ZAXOTP
 pip install -r requirements.txt
 python run.py
+
