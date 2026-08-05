@@ -13,7 +13,7 @@ Gunakan untuk testing sendiri. Resiko ditanggung user.
 - Quota system for trial
 
 ## TAMPILAN 
-![ZAXOTP BANNER](https://ibb.co.com/HTrctSD8)
+ ![ZAXOTP Banner](https://i.ibb.co.com/gZD0S2MK/Screenshot-2026-08-05-19-40-53-67.png)
 
 ## Instalasi
 ```bash
